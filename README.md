@@ -4,6 +4,22 @@ A simple well documented tutorial on to implement a 1D GAN on Keras using a Pyth
 Refer 1D-GAN.ipynb notebook. You may run it on Google Colab too.
 Refer DC-GAN for a GAN that generates image data.
 
+## Output Progress
+
+![1](https://github.com/abhaskumarsinha/1D-GAN/raw/main/sample-outputs/1.png)
+
+![2](https://github.com/abhaskumarsinha/1D-GAN/raw/main/sample-outputs/2.png)
+
+![3](https://github.com/abhaskumarsinha/1D-GAN/raw/main/sample-outputs/3.png)
+
+![4](https://github.com/abhaskumarsinha/1D-GAN/raw/main/sample-outputs/4.png)
+
+![5](https://github.com/abhaskumarsinha/1D-GAN/raw/main/sample-outputs/5.png)
+
+![6](https://github.com/abhaskumarsinha/1D-GAN/raw/main/sample-outputs/6.png)
+
+![7](https://github.com/abhaskumarsinha/1D-GAN/raw/main/sample-outputs/7.png)
+
 # **BIBLOGRAPHY**
 
 
