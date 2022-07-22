@@ -1,5 +1,5 @@
 # 1D-GAN
-A simple well documented tutorial on to implement a 1D GAN on Keras using a Python Jupyter Notebook
+A simple well-documented tutorial on implementing a 1D GAN on Keras using a Python Jupyter Notebook
 
 Refer 1D-GAN.ipynb notebook. You may run it on Google Colab too.
 Refer DC-GAN for a GAN that generates image data.
@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/31654395/180387174-e93db33e-e192-4f13-
 
 
 
-# **BIBLOGRAPHY**
+# **BIBLIOGRAPHY**
 
 
 - I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio, “Generative adversarial nets,” in Advances in Neural Information Processing Systems, 2014, pp. 2672–2680.
