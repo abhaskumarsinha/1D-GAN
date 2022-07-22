@@ -20,6 +20,12 @@ Refer DC-GAN for a GAN that generates image data.
 
 ![7](https://github.com/abhaskumarsinha/1D-GAN/raw/main/sample-outputs/7.png)
 
+
+
+https://user-images.githubusercontent.com/31654395/180387174-e93db33e-e192-4f13-b56d-b4252bde6777.mp4
+
+
+
 # **BIBLOGRAPHY**
 
 
